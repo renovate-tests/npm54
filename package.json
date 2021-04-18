@@ -3,6 +3,6 @@
     "chalk": "^2.0.0"
   },
   "renovate": {
-    "rangeStrategy": "pin"
+    "rangeStrategy": "auto"
   }
 }
